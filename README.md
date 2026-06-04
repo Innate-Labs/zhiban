@@ -52,7 +52,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="知伴 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="知伴 首页" width="100%" />
   <br/>
   <sub><b>AI 恋爱顾问 · 心理学驱动的亲密关系陪伴</b></sub>
 </div>
