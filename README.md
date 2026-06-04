@@ -21,8 +21,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square&labelColor=0B1220" alt="Status: Live"/>
-  <img src="https://img.shields.io/badge/期数-产品%2004%20期-F97316?style=flat-square&labelColor=0B1220" alt="期数"/>
-  <img src="https://img.shields.io/badge/分类-AI%20%E5%8A%A9%E6%89%8B%E7%B1%BB-F97316?style=flat-square&labelColor=0B1220" alt="分类"/>
   <img src="https://img.shields.io/badge/AI%20Native-Yes-8B5CF6?style=flat-square&labelColor=0B1220" alt="AI Native"/>
 </p>
 
@@ -82,7 +80,6 @@
 > **Building AI-native products & agents for the next generation of founders.**
 
 [Innate Labs](https://github.com/Innate-Labs) 致力于打造下一代 AI 原生产品与智能体（Agents）。
-**知伴** 是我们 **04 期** 学员作品中 **AI 助手类** 方向的优秀代表。
 
 - 🌐 GitHub：<https://github.com/Innate-Labs>
 - 🪐 产品官网：<https://zbai.fivefit.store/web_home_v3.html>
